@@ -1,17 +1,14 @@
-## Hi there 👋
-
-<!--
-**namrata-21-kundu/namrata-21-kundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
 Hello, I am Namrata!
 
 💻 I am BCA student and a curious mind who loves to explore the world of technology✨
 
-🌱*Currently Learning*
+# 🌱*Currently Learning*
 - Python
 - Machine Learning
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
