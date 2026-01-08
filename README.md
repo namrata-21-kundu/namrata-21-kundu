@@ -1,7 +1,7 @@
 💫 <em> About Me: <br>
  Hi, there👋<br>I'm Namrata. </em> <br>I'm a BCA student and a tech enthusiast with strong interest in Python, Data Structures and Algorithms. <br>Currently, I am practicing DSA in C, and learning Python. <br><br>
 
-🔧 Skills & Interests<br><br>* Programming: C, C++, Python, SQL<br>* Core CS: Data Structures & Algorithms, Design Analysis and Algorithms<br>* Web: HTML, CSS<br>* Security: Cybersecurity fundamentals, penetration testing concepts<br><br>
+🔧 Skills & Interests<br><br>* Programming: C, C++, Python, SQL<br>* Core CS: Data Structures & Algorithms, Design Analysis and Algorithms<br>* Web: HTML, CSS<br>
 
 🌱 What you'll find here<br><br>* DSA practice and implementations<br>* Mini projects and learning experiments<br>* Notes and resources from my learning journey<br><br>📌 *I show great interest in being consistent on GitHub and continuously building more projects as part of my learning journey.*<br>
 
