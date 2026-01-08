@@ -2,7 +2,7 @@
 # Hi, there👋<br>I'm Namrata. <br>I'm a BCA student and a tech enthusiast with strong interest in Python, Data Structures and Algorithms. <br>Currently, I am practicing DSA in C, and learning Python. <br><br>### 🔧 Skills & Interests<br><br>* Programming: C, C++, Python, SQL<br>* Core CS: Data Structures & Algorithms, Design Analysis and Algorithms<br>* Web: HTML, CSS<br>* Security: Cybersecurity fundamentals, penetration testing concepts<br><br>### 🌱 What you'll find here<br><br>* DSA practice and implementations<br>* Mini projects and learning experiments<br>* Notes and resources from my learning journey<br><br>📌 *I show great interest in being consistent on GitHub and continuously building more projects as part of my learning journey.*<br>
 
 
-## 🌐 Socials:
+#🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nkoffscript) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namrata-kundu-44aa39318/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCJb-muvR0fAfkGPMVlNCrhg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namratakundu22work@gmail.com) 
 
 # 💻 Tech Stack:
