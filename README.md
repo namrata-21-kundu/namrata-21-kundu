@@ -1,6 +1,8 @@
 # Namrata Kundu 👩‍💻
 ### BCA Student | IEM '28
-
+<p align="center">
+  <img src=""C:\Users\namra\Downloads\linkedin_banner.jpg"" width="600">
+</p>
 ---
 
 ## 🛠️ Tech Stack
